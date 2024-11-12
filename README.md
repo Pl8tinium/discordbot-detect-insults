@@ -24,3 +24,5 @@ https://discordpy.readthedocs.io/en/stable/discord.html
 
 - Bot -> enable all 3 intents
 - Oauth2 -> OAuth2 URL Generator -> bot -> administrator -> guild install
+
+Put the generated token into the `TOKEN` variable.
